@@ -1,0 +1,22 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Aplication/1-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/Databases.git"
+  },
+  "author": "GreedNeSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/Databases/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/Databases#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
